@@ -1,0 +1,21 @@
+24 czerwca, 
+poczatek czerwca, pierwszy tydzien,
+4000zl brutto, umowa zlecenie, 
+sroda 
+
+https://www.geeksforgeeks.org/opencv-python-program-to-blur-an-image/
+https://stackoverflow.com/questions/58264325/python-opencv-control-increase-decrease-the-video-playback-speed-as-custom
+https://www.geeksforgeeks.org/python-thresholding-techniques-using-opencv-set-2-adaptive-thresholding/
+https://opencv24-python-tutorials.readthedocs.io/_/downloads/en/stable/pdf/
+https://www.delftstack.com/howto/python/opencv-shape-detection/
+https://pyimagesearch.com/2016/02/01/opencv-center-of-contour/
+https://docs.opencv.org/3.4/dd/d1a/group__imgproc__feature.html
+https://stackoverflow.com/questions/62274412/cv2-approxpolydp-cv2-arclength-how-these-works
+https://pyimagesearch-com.translate.goog/2016/02/08/opencv-shape-detection/?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=pl&_x_tr_pto=sc
+https://docs.opencv.org/4.x/d2/de8/group__core__array.html#ga209f2f4869e304c82d07739337eae7c5
+https://docs.opencv.org/3.4/d4/d86/group__imgproc__filter.html#ga564869aa33e58769b4469101aac458f9
+https://www.youtube.com/watch?v=Fchzk1lDt7Q
+https://docs.opencv.org/3.4/da/d0c/tutorial_bounding_rects_circles.html
+https://stackoverflow.com/questions/29322188/canny-edge-vs-thresholding-for-contour-estimation-in-open-cv
+https://docs.opencv.org/3.4/dd/d49/tutorial_py_contour_features.html
+https://space.biz.pl/wp-content/uploads/2022/03/Oferty-stazy_lista-glowna.pdf
