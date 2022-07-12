@@ -13,7 +13,7 @@ def deg2rad(deg):
   return deg * (math.PI/180)
 
   '''
-  This script [in Javascript] calculates great-circle distances 
+  This script calculates great-circle distances 
   between the two points – that is, the shortest distance over 
   the earth's surface – using the 'Haversine' formula.
 
